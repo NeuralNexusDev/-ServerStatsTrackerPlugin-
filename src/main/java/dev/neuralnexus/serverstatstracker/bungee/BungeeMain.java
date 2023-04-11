@@ -34,7 +34,7 @@ public class BungeeMain extends Plugin {
                     ENABLED = false;
                 }
             }
-        }, 0, TimeUnit.SECONDS);
+        }, 10L, 10L, TimeUnit.SECONDS);
 
         // Plugin enable message
         getLogger().info("SystemStatsTracker has been enabled!");
