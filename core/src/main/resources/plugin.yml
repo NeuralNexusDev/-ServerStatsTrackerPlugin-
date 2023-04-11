@@ -1,6 +1,0 @@
-name: '${project.name}'
-version: '${project.version}'
-main: ca.sperrer.expnet.expnetstats.ExpNetStatsSpigot
-prefix: ExpNetStats
-authors: [ p0t4t0sandwich ]
-softdepend: [ spark ]

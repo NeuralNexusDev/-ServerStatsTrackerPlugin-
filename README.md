@@ -1,2 +1,3 @@
-# ExpNetStats
-A repo that holds all the different versions of the ExpNetStats analysis tool
+# ServerStatsTracker Plugin
+
+A Minecraft plugin that tracks server statistics and uploads them to a web server.

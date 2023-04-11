@@ -1,6 +1,0 @@
-name: ExpNetStats-Spigot-1.13-1.19.2
-version: '${project.version}'
-main: ca.sperrer.spigot.expnetstats.ExpNetStats
-api-version: 1.13
-prefix: ExpNetStats
-authors: [ p0t4t0sandwich ]

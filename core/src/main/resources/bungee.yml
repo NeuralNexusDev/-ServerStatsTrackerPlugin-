@@ -1,5 +1,0 @@
-name: ExpNetStats-Bungee
-version: '${project.version}'
-main: ca.sperrer.expnet.expnetstats.ExpNetStatsBungee
-author: p0t4t0sandwich
-softdepend: [ spark ]

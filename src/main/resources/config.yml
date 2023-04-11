@@ -1,0 +1,23 @@
+version: 1
+stats:
+  endpointURL: https://api.neuralnexus.dev/api/v1/server-stats-tracker/upload
+  serverName: Default
+  serverUUID: 00000000-0000-0000-0000-000000000000
+  savePlayerIPs: false
+alerts:
+  webhookURL: https://discord.com/api/webhooks/0000000
+  webhookUsername: NeuralNexus ServerStatsTracker
+  webhookAvatarURL: ""
+  webhookEnabled: false
+
+  pingThreshold: 500
+  pingAlertsEnabled: true
+
+  memoryThreshold: 85
+  memoryAlertsEnabled: true
+
+  tpsThreshold: 16.0
+  tpsAlertsEnabled: true
+
+  cpuThreshold: 80
+  cpuAlertsEnabled: true
