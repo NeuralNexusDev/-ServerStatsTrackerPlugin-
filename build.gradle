@@ -49,10 +49,6 @@ java {
     if (JavaVersion.current() < javaVersion) {
         toolchain.languageVersion = JavaLanguageVersion.of(targetJavaVersion)
     }
-
-    // Fabric
-//    archivesBaseName = project.archives_base_name + "-${version}" +"-${project.minecraft_version}"
-//    withSourcesJar()
 }
 java.disableAutoTargetJvm()
 

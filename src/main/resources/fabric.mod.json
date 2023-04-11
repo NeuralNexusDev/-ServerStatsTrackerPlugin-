@@ -10,7 +10,7 @@
   },
   "license": "All-Rights-Reserved",
   "icon": "assets/ServerStatsTracker/icon.png",
-  "environment": "*",
+  "environment": "server",
   "entrypoints": {
     "main": [
       "dev.neuralnexus.serverstatstracker.fabric.FabricMain"
