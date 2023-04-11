@@ -1,7 +1,0 @@
-name: ServerStatsTracker
-version: '${version}'
-description: A plugin that tracks server statistics and sends them to a web server.
-author: p0t4t0sandwich
-website: https://github.com/NeuralNexusDev/ServerStatsTrackerPlugin
-main: dev.neuralnexus.serverstatstracker.bungee.BungeeMain
-softDepends: [spark]

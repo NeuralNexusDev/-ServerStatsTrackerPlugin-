@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "id": "serverstatstracker",
   "version": "${version}",
-  "name": "ServerStatsTracker",
+  "name": "ServerStatsTracker-Fabric-1.19.x",
   "description": "",
   "authors": [],
   "contact": {
-    "repo": "https://github.com/NeuralNexusDev/ServerStatsTracker"
+    "repo": "https://github.com/NeuralNexusDev/ServerStatsTrackerPlugin"
   },
   "license": "All-Rights-Reserved",
   "icon": "assets/ServerStatsTracker/icon.png",
